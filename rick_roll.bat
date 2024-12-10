@@ -1,1 +1,1 @@
-start curl ASCII.live/can-you-hear-me
+curl ASCII.live/can-you-hear-me
